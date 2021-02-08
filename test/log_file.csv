@@ -1,0 +1,1027 @@
+2019-02-20 07:05:32,AH55684HH6,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'1','23',curdate(),'92')
+2019-02-20 07:05:33,40H6499940,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'1','23',curdate(),'92')
+2019-02-26 07:47:37,79Y82H92X3,purchase_model,insert_opening,1146update card_price_details set payout=NULL where card_price_details_id=NULL
+2019-02-26 07:47:41,Y977600A68,purchase_model,insert_opening,1146update card_price_details set payout=NULL where card_price_details_id=NULL
+2019-02-26 07:47:42,Y17595510H,purchase_model,insert_opening,1146update card_price_details set payout=NULL where card_price_details_id=NULL
+2019-02-26 07:47:42,HXAXAHA4AY,purchase_model,insert_opening,1146update card_price_details set payout=NULL where card_price_details_id=NULL
+2019-02-26 07:47:43,517X42Y9H5,purchase_model,insert_opening,1146update card_price_details set payout=NULL where card_price_details_id=NULL
+2019-02-26 07:47:43,9222A09H89,purchase_model,insert_opening,1146update card_price_details set payout=NULL where card_price_details_id=NULL
+2019-02-26 07:47:44,6H83X69639,purchase_model,insert_opening,1146update card_price_details set payout=NULL where card_price_details_id=NULL
+2019-02-27 02:39:30,8XYH43131X,purchase_model,insert_opening,1146update card_price_details set payout=NULL where card_price_details_id=NULL
+2019-02-27 02:39:33,9Y76988909,purchase_model,insert_opening,1146update card_price_details set payout=NULL where card_price_details_id=NULL
+2019-02-27 02:39:36,8YH990HY1A,purchase_model,insert_opening,1146update card_price_details set payout=NULL where card_price_details_id=NULL
+2019-02-27 02:39:37,4360027475,purchase_model,insert_opening,1146update card_price_details set payout=NULL where card_price_details_id=NULL
+2019-03-09 11:30:06,3X12083YA0,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','31',curdate(),'89')
+2019-03-09 11:30:09,Y4H127X011,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','31',curdate(),'89')
+2019-03-10 04:30:02,A0155X83A1,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','24',curdate(),'71')
+2019-03-10 04:30:04,7Y471A0A3H,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','24',curdate(),'71')
+2019-03-10 04:30:04,0A3HYXH376,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','24',curdate(),'71')
+2019-03-10 04:30:04,03856659X4,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','24',curdate(),'71')
+2019-03-10 04:30:05,H509919A43,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','24',curdate(),'71')
+2019-03-11 05:30:06,Y9H4Y1A9AX,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','25',curdate(),'85')
+2019-03-11 05:30:07,83X9249191,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','25',curdate(),'85')
+2019-03-11 05:30:08,H49941157X,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','25',curdate(),'85')
+2019-03-12 08:29:06,82H27A900H,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','28',curdate(),'78')
+2019-03-12 09:29:06,AAH5X389AX,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'1','29',curdate(),'96')
+2019-03-12 09:32:42,42731922H9,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','30',curdate(),'11')
+2019-03-12 06:47:09,2XX217H405,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','23',curdate(),'12')
+2019-03-13 05:49:29,8396Y27A44,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','26',curdate(),'76')
+2019-03-13 05:49:31,Y5AY6A4X0X,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','26',curdate(),'76')
+2019-03-13 05:49:31,38XY67466X,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','26',curdate(),'76')
+2019-03-14 06:29:14,069H81YY4A,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','26',curdate(),'45')
+2019-03-14 06:29:25,45A3466HA5,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','26',curdate(),'45')
+2019-03-14 06:30:28,0147H0Y67Y,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','26',curdate(),'45')
+2019-03-14 06:30:29,9934YYXH1A,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','26',curdate(),'45')
+2019-03-15 03:29:43,57352867H7,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','23',curdate(),'57')
+2019-03-15 03:29:44,6H5A216129,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','23',curdate(),'57')
+2019-03-15 03:29:45,1974XX9H80,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','23',curdate(),'57')
+2019-03-15 08:29:28,Y4X8H4834X,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','28',curdate(),'63')
+2019-03-15 08:29:31,4H40Y19677,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','28',curdate(),'63')
+2019-03-15 08:29:45,68238YY00H,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','28',curdate(),'63')
+2019-03-15 09:29:26,61323Y0217,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','29',curdate(),'81')
+2019-03-15 09:29:30,11X3HA1439,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','29',curdate(),'81')
+2019-03-15 09:29:33,561HH303YY,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','29',curdate(),'81')
+2019-03-15 09:29:34,09H11A5167,purchase_model,insert_opening,1048insert into manual_result_digit (
+                       id
+                      ,play_series_id
+                      ,draw_master_id
+                      ,game_date
+                      ,result
+                    ) VALUES (null,'2','29',curdate(),'81')
+2019-07-12 09:23:37,177075H6X3,purchase_model,insert_opening,1048insert into manual_result_digit (
+                  draw_master_id
+                  ,game_date
+                  ,result
+                ) VALUES ('1',curdate(),NULL)
+2019-07-12 10:01:30,24677H4925,purchase_model,insert_opening,1048insert into manual_result_digit (
+                  draw_master_id
+                  ,game_date
+                  ,result
+                ) VALUES ('3',curdate(),NULL)
+2019-07-12 10:11:08,AX4XH470AH,purchase_model,insert_opening,1048insert into manual_result_digit (
+                  draw_master_id
+                  ,game_date
+                  ,result
+                ) VALUES ('3',curdate(),NULL)
+2019-07-12 10:11:32,9090961740,purchase_model,insert_opening,1048insert into manual_result_digit (
+                  draw_master_id
+                  ,game_date
+                  ,result
+                ) VALUES ('3',curdate(),NULL)
+2019-07-12 10:20:41,826002A6X8,purchase_model,insert_opening,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (2,1,curdate(),25)
+2019-07-12 11:14:21,AAYY77Y066,purchase_model,insert_opening,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,5,curdate(),25)
+2019-07-12 11:14:32,337756A908,purchase_model,insert_opening,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (2,5,curdate(),10)
+2019-07-12 12:38:09,9328697291,purchase_model,insert_opening,0START TRANSACTION
+2019-07-12 12:41:00,2YH4A1H203,purchase_model,insert_opening,0START TRANSACTION
+2019-07-12 12:41:29,5A451X7972,purchase_model,insert_opening,0START TRANSACTION
+2019-07-12 06:29:56,208YAHY898,purchase_model,insert_opening,0START TRANSACTION
+2019-07-12 06:30:05,A78438X5XA,purchase_model,insert_opening,0START TRANSACTION
+2019-07-12 06:30:35,X0Y7747Y84,purchase_model,insert_opening,0START TRANSACTION
+2019-07-12 06:31:11,9A2870HH41,purchase_model,insert_opening,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (1,2,curdate(),2)
+2019-07-12 06:31:56,59367507X3,purchase_model,insert_opening,0START TRANSACTION
+2019-07-12 06:32:15,9HX2A148H4,purchase_model,insert_opening,0START TRANSACTION
+2019-07-12 06:40:46,8H280974Y3,purchase_model,insert_opening,0START TRANSACTION
+2019-07-12 06:41:38,289X6X4A3H,purchase_model,insert_opening,0START TRANSACTION
+2019-07-12 08:04:31,H387566H76,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,3,curdate(),-1)
+2019-07-12 08:07:49,182H06729Y,purchase_model,insert_digit_game_manual_result,0START TRANSACTION
+2019-08-17 09:43:17,5A7XA52733,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,'1'))
+2019-08-17 09:44:29,X1Y142X6X3,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,NULL,NULL,'4'))
+2019-08-17 09:46:44,34H27X4X4X,Game_model,insert_game_values,1054insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',Object)
+2019-08-17 09:47:31,XX5310908H,Game_model,insert_game_values,1054insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',Object)
+2019-08-17 09:49:52,019H08A020,Game_model,insert_game_values,1054insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',Object)
+2019-08-17 09:53:38,50Y972A425,Game_model,insert_game_values,1054insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',Object)
+2019-08-17 09:54:48,796717X54X,Game_model,insert_game_values,1054insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',Object)
+2019-08-17 09:59:03,0840X12123,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,'15'))
+2019-08-17 09:59:34,7A6YH785Y8,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,'15','14'))
+2019-08-17 05:19:24,YH04206X41,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,NULL,NULL,'5'))
+2019-08-17 05:39:41,HH5548A1A6,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,NULL,NULL,NULL,NULL,NULL,NULL,'1'))
+2019-08-17 05:41:25,98Y7XAA00H,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,NULL,NULL,NULL,NULL,'1'))
+2019-08-17 08:04:23,791AXX0AA5,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,NULL,NULL,'5'))
+2019-08-17 08:06:53,992226H754,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,NULL,NULL,'5'))
+2019-08-17 08:12:59,A8708XY5AX,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,NULL,NULL,NULL,'4'))
+2019-08-17 08:13:48,915YA85668,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,NULL,NULL,'4'))
+2019-08-17 08:23:58,336Y32X197,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,NULL,NULL,NULL,NULL,'14'))
+2019-08-17 08:25:18,238250659A,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,'1',NULL,NULL,NULL,'5'))
+2019-08-17 08:26:06,89H3Y27948,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,'1',NULL,NULL,NULL,'7'))
+2019-08-17 08:27:08,5001983288,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',('9',NULL,'1',NULL,NULL,NULL,NULL,'4'))
+2019-08-17 08:27:53,3X122XXXX1,Game_model,insert_game_values,1241insert into play_master (
+                       play_master_id
+                      ,terminal_id
+                      ,draw_master_id
+                    ) VALUES ('SW00000000011920','C-1920-ad',(NULL,'4',NULL,NULL,NULL,NULL,'10'))
+2019-08-17 08:46:09,X86HH31423,purchase_model,insert_opening,1048insert into stockist_to_person (
+                   stockist_to_person_id
+                  ,stockist_id
+                  ,person_id
+                  ,inforce
+                ) VALUES (null,'S-0001-1920','T-0001-1920',1)
+2019-08-17 08:46:26,042034XH94,purchase_model,insert_opening,1048insert into stockist_to_person (
+                   stockist_to_person_id
+                  ,stockist_id
+                  ,person_id
+                  ,inforce
+                ) VALUES (null,'S-0001-1920','T-0001-1920',1)
+2019-08-17 08:46:29,X9A05XAH3H,purchase_model,insert_opening,1048insert into stockist_to_person (
+                   stockist_to_person_id
+                  ,stockist_id
+                  ,person_id
+                  ,inforce
+                ) VALUES (null,'S-0001-1920','T-0001-1920',1)
+2019-08-17 08:47:02,281XH0X048,purchase_model,insert_opening,1048insert into stockist_to_person (
+                   stockist_to_person_id
+                  ,stockist_id
+                  ,person_id
+                  ,inforce
+                ) VALUES (null,'S-0001-1920','T-0001-1920',1)
+2019-08-17 08:55:03,94XH5588H2,purchase_model,insert_opening,1048insert into recharge_to_terminal (
+                   recharge_to_terminal_id
+                  ,recharge_master_id
+                  ,recharge_master_cat_id
+                  ,terminal_id
+                  ,amount
+                ) VALUES (null,'C-1920-ad',1,'T-0001-1920','120')
+2019-08-17 11:37:44,7AH16A6375,Game_model,insert_game_values,1062insert into play_master (
+                    play_master_id
+                ,terminal_id
+                ,draw_master_id
+                ,activity_done_by
+                ) VALUES ('SW00000000021920','T-0001-1920','27','C-1920-ad')
+2019-08-17 11:42:48,X116XX9HH1,Game_model,insert_game_values,1062insert into play_master (
+                    play_master_id
+                ,terminal_id
+                ,draw_master_id
+                ,activity_done_by
+                ) VALUES ('SW00000000011920','T-0001-1920','27','C-1920-ad')
+2019-08-17 11:46:52,1X2979610X,Game_model,insert_game_values,1062insert into play_master (
+                    play_master_id
+                ,terminal_id
+                ,draw_master_id
+                ,activity_done_by
+                ) VALUES ('SW00000000011920','T-0001-1920','27','C-1920-ad')
+2019-08-31 12:18:13,9H7149A39A,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,33,curdate(),81)
+2019-09-02 07:19:34,H648X54HX2,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,14,curdate(),17)
+2019-09-02 08:34:45,Y84X18Y696,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,18,curdate(),56)
+2019-09-02 10:19:59,5649XHA0XA,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,25,curdate(),0)
+2019-09-03 05:49:57,73HH3Y53A7,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,8,curdate(),45)
+2019-09-03 09:19:50,20A781680H,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,21,curdate(),9)
+2019-09-03 11:49:33,YY751XXA61,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,31,curdate(),28)
+2019-09-04 06:34:39,1X184X8652,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,11,curdate(),58)
+2019-09-05 07:05:14,24528HH350,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,13,curdate(),30)
+2019-09-05 10:49:49,4H60YH06A3,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,27,curdate(),48)
+2019-09-06 10:04:55,00439H679Y,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,24,curdate(),83)
+2019-09-06 11:19:52,483H828X1A,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,29,curdate(),10)
+2019-09-06 12:34:21,6476X1HHA8,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,34,curdate(),48)
+2019-09-07 11:34:45,630H845901,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,30,curdate(),94)
+2019-09-08 06:50:54,7Y7Y88H001,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,12,curdate(),68)
+2019-09-08 06:51:01,H7042135Y1,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,12,curdate(),68)
+2019-09-08 06:51:20,H621827152,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,12,curdate(),68)
+2019-09-08 09:33:41,6150A23Y58,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,22,curdate(),10)
+2019-09-11 12:35:10,0300192H83,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,33,curdate(),40)
+2019-09-12 07:04:29,HX4435H339,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,13,curdate(),42)
+2019-09-12 08:34:44,YA42XH5666,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,18,curdate(),45)
+2019-09-14 05:36:01,H61H611537,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,7,curdate(),72)
+2019-09-14 09:05:06,315X7A22A2,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,20,curdate(),97)
+2019-09-14 10:49:43,Y46H5HXXAA,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,27,curdate(),10)
+2019-09-14 11:35:11,997296A6Y9,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,30,curdate(),89)
+2019-09-14 11:35:12,H35A644H4X,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,30,curdate(),89)
+2019-09-14 11:35:13,HX96A76367,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,30,curdate(),89)
+2019-09-17 07:35:35,779H38X5YX,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,14,curdate(),96)
+2019-09-17 07:35:46,173A8XX92Y,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,14,curdate(),96)
+2019-09-18 05:49:27,6H4YH5A665,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,8,curdate(),48)
+2019-09-18 08:15:28,26A1H14946,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,17,curdate(),82)
+2019-09-18 08:15:35,42A88A82Y2,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,17,curdate(),82)
+2019-09-18 08:15:36,X5564X90A7,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,17,curdate(),82)
+2019-09-18 11:48:53,535Y8AY7A7,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,31,curdate(),54)
+2019-09-19 06:08:58,5HA0940081,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,9,curdate(),74)
+2019-09-19 06:09:31,76XAH48093,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,9,curdate(),74)
+2019-09-19 10:04:50,71852H8YY3,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,24,curdate(),86)
+2019-09-19 10:04:53,5A57A2H433,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,24,curdate(),86)
+2019-09-19 10:04:53,H32418HHAH,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,24,curdate(),86)
+2019-09-19 10:04:54,H0129A8827,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,24,curdate(),86)
+2019-09-21 07:19:00,X12842X594,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,14,curdate(),7)
+2019-09-21 07:54:20,3Y278X39H5,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,16,curdate(),93)
+2019-09-22 05:34:43,77XYY7753A,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,7,curdate(),50)
+2019-09-22 05:34:50,67Y6246A56,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,7,curdate(),50)
+2019-09-22 05:34:56,4YX21026YX,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,7,curdate(),50)
+2019-09-22 05:35:10,YYA9XA600X,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,7,curdate(),50)
+2019-09-22 05:35:14,6484A01783,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,7,curdate(),50)
+2019-09-23 05:37:18,X41X4A7Y38,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,7,curdate(),98)
+2019-09-24 07:55:07,3370H05H89,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,16,curdate(),72)
+2019-09-25 06:05:17,660AA0X5Y1,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,9,curdate(),98)
+2019-09-25 09:04:37,15HYH8H570,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,19,curdate(),87)
+2019-09-25 09:04:37,48H8YHY7AA,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,19,curdate(),87)
+2019-09-25 09:04:38,26356338A7,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,19,curdate(),87)
+2019-09-26 06:19:28,X780YAA86A,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,10,curdate(),5)
+2019-09-26 06:49:24,A3206890Y6,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,12,curdate(),37)
+2019-09-26 06:49:26,A8H2112H18,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,12,curdate(),37)
+2019-09-26 07:58:17,8Y098X50X1,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,16,curdate(),93)
+2019-09-26 07:58:17,17HA66366Y,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,16,curdate(),93)
+2019-09-26 07:58:18,71AY4727Y5,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,16,curdate(),93)
+2019-09-26 07:58:18,8113H3156X,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,16,curdate(),93)
+2019-09-26 07:58:21,4XYA506433,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,16,curdate(),93)
+2019-09-26 07:58:22,Y9Y8198747,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,16,curdate(),93)
+2019-09-26 11:04:19,03XX274Y52,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,28,curdate(),4)
+2019-09-27 06:19:38,08387H4327,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,10,curdate(),32)
+2019-09-27 07:20:13,236AA88AA1,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,14,curdate(),8)
+2019-09-27 07:20:16,4698A6Y944,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,14,curdate(),8)
+2019-09-27 08:49:52,A05741Y0AX,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,19,curdate(),23)
+2019-09-27 09:05:22,5277X6A821,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,20,curdate(),45)
+2019-09-27 10:49:47,12HH48HY79,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,27,curdate(),74)
+2019-09-27 10:49:50,38X8X0X0X1,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,27,curdate(),74)
+2019-09-27 11:53:34,Y97XX60X5H,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,31,curdate(),12)
+2019-09-28 05:55:50,80H70A5658,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,8,curdate(),45)
+2019-09-29 05:51:47,Y041305A75,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,8,curdate(),54)
+2019-09-29 09:38:20,9YX6A7396Y,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,22,curdate(),31)
+2019-09-29 09:38:24,51Y2640768,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,22,curdate(),31)
+2019-09-29 09:38:24,47252HH213,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,22,curdate(),31)
+2019-10-13 06:05:17,1A8X2Y77Y3,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,9,curdate(),86)
+2019-10-14 08:15:50,339H9652A4,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,17,curdate(),68)
+2019-10-15 12:05:07,18XA281795,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,32,curdate(),72)
+2019-10-16 12:34:26,1775096940,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,32,curdate(),87)
+2019-10-22 07:19:01,0Y38Y1A049,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,14,curdate(),7)
+2019-10-22 08:14:15,5X4493H391,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,10,curdate(),94)
+2019-10-22 12:18:35,0Y9728X88Y,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,17,curdate(),35)
+2019-11-21 11:43:46,7AH66527A2,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,31,curdate(),59)
+2019-11-27 11:19:19,5AY1847AXA,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,29,curdate(),16)
+2019-11-27 02:19:29,Y51A687886,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,41,curdate(),35)
+2019-12-02 07:34:57,1914287AH2,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,15,curdate(),15)
+2019-12-05 08:34:17,577A61XAH0,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,18,curdate(),96)
+2019-12-07 10:50:27,705X049476,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,27,curdate(),64)
+2019-12-08 07:05:03,Y53H38X7Y2,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,13,curdate(),83)
+2019-12-08 08:14:31,H284856934,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,16,curdate(),21)
+2020-01-05 07:05:08,7054X2AX17,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,12,curdate(),8)
+2020-01-06 11:50:23,XYX5482191,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,31,curdate(),32)
+2020-01-09 08:15:13,H4H032514H,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,17,curdate(),26)
+2020-01-09 08:15:13,7H84A7Y341,purchase_model,insert_digit_game_manual_result,1062insert into manual_result_digit (
+                    play_series_id 
+                    ,draw_master_id
+                    ,game_date
+                    ,result
+                  ) VALUES (3,17,curdate(),26)
