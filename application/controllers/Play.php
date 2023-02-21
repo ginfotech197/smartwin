@@ -363,9 +363,9 @@ class Play extends CI_Controller {
                                                 <tr height="33" align="center">
                                                     <td class="text-center font-weight-bold" width="16.67%">Date</td>
                                                     <td class="text-center font-weight-bold" width="16.67%">Slab</td>
-                                                    <td class="text-center font-weight-bold" width="16.67%">Lucky Zone</td>
-                                                    <td class="text-center font-weight-bold" width="16.67%">Rajlaxmi</td>
-                                                    <td class="text-center font-weight-bold" width="16.67%">Smartwin</td>
+                                                    <td class="text-center font-weight-bold" width="16.67%">Bhagylaxmi</td>
+                                                    <td class="text-center font-weight-bold" width="16.67%">Royal king</td>
+                                                    <td class="text-center font-weight-bold" width="16.67%">Shakti</td>
                                                     <td class="text-center font-weight-bold" width="16.67%">***</td>
                                                 </tr>
                                            </thead> 
